@@ -10,4 +10,4 @@ This solution can potentially reduce the cost and improve the accuracy of monito
 
 This competition is sponsored by [Women in Big Data South Africa](https://www.womeninbigdata.org/) and [Microsoft](https://www.microsoft.com/en-za/), in collaboration with [HERE Technologies](https://www.here.com/).
 
-This notebook was created by [Johnowhitaker](https://zindi.africa/users/Johnowhitaker). You can read more about Johno and his work on his [blog](https://datasciencecastnet.home.blog/category/blogs/) and view the original notebook on [Google Colab](https://colab.research.google.com/drive/1HLc9el9i4Ywymkpqxd2YU-8Uhf0LKe0h).
+This notebook was created by [Johnowhitaker](https://zindi.africa/users/Johnowhitaker). You can read more about Johno and his work on his [blog](https://datasciencecastnet.home.blog/category/blogs/) and view the original notebook on [Google Colab](https://colab.research.google.com/drive/19dHG6RIQapPZTnPYGtsBWRbqW0-t07oJ).
